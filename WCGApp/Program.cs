@@ -48,7 +48,7 @@ namespace WCGApp
         {
             // Just here to serve a simple function = Copy and paste the menu whenever and wherever I need it.
             Console.WriteLine("===>> Select an Option");
-            Console.WriteLine("<C>heck the database");
+            Console.WriteLine("<C>heck the cards on file");
             Console.WriteLine("<D>one -> Quit this program");
             
         }
