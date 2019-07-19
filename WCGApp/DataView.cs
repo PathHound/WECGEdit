@@ -167,6 +167,7 @@ namespace WCGApp
                     case ConsoleKey.A:
                         while (true)
                         {
+                            // Variable Prime to add new entries.
                             var newCard = new CarData();
                             Console.WriteLine(">>>>>>>>>>!!!Adding A New Card!!!<<<<<<<<<<");
 
@@ -204,6 +205,7 @@ namespace WCGApp
                             var colorInput = Console.ReadKey();
                             bool colorOption = true;
                             string CardColor = "";
+
                             while (colorOption) {
                                 switch (colorInput.Key)
                                 {

@@ -6,11 +6,9 @@ namespace WCGApp
     {
         static void Main(string[] args)
         {
-            
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.Clear();
-            CarDataService cardEdit = new CarDataService(); 
             
             // Header - Introducing the User to the program.
             for (int i = 0; i <= 30; i++)
@@ -18,10 +16,9 @@ namespace WCGApp
                 Console.Write("=");
                 if (i == 15)
                 {
-                    Console.Write(">> Welcome to the 'Worlds LCG' Database <<");
+                    Console.Write(">> Welcome to the 'Worlds LCG' Database << \n");
                 }
             }
-            Console.WriteLine("");
             
             //Main Loop - Waits for exit statement.
             bool done = true;
@@ -42,7 +39,9 @@ namespace WCGApp
                         break;
 
                 }
+                Console.Clear();
             }
+
         }
 
         public static void pUsrOptions()
