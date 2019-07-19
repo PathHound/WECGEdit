@@ -30,8 +30,11 @@ It is also through this view that the data can be manipulated. Cards can be adde
 Using the [←] and [→] Arrow keys, the data can be scrolled through quickly by holding it in or one at a time.
 
 Back: Leave this View.
+
 Edit: This will edit a property of the card currently on the screen.
+
 Add: This will add a new entry to the data file.
-Remove: This will remove the current card on the screen, along with a confirmation message since data losee is permenant.
+
+Remove: This will remove the current card on the screen, along with a confirmation message since data loss is permenant.
   
 ▲▼ Note's on Editing Cards: When input is put in for a certein prompt, please hit Enter to move onto the next prompt.
