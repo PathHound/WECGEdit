@@ -1,15 +1,18 @@
 # WECGEdit
 
 ▼▲▼▲ (W)orlds(E)xpandable(C)ard(G)ame Edit
+
 • A Program to help manage, edit and keep track of the library in a card game.
 
 ▼▲▼▲ Note
+
 This editor takes uses single key stroke's in order to perform actions.
 The key's to these actions are outlined with '<->'
 Example: If you want to <E>dit a card, you need to press 'E' via Keyboard.
 Key Prompts are not used when manipulating the data.
   
 ▼▲▼▲ Main Menu
+
 • Check the cards on file.
 You can access the data on the file and select an option on how to view it.
 
