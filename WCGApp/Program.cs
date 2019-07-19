@@ -33,7 +33,7 @@ namespace WCGApp
                 {
                     case ConsoleKey.C:
                         Console.Clear();
-                        DataView.ViewFile();
+                        DataView.ViewEditFile();
                         break;
                     case ConsoleKey.D:
                         done = false;
@@ -50,8 +50,6 @@ namespace WCGApp
             // Just here to serve a simple function = Copy and paste the menu whenever and wherever I need it.
             Console.WriteLine("===>> Select an Option");
             Console.WriteLine("<C>heck the database");
-            Console.WriteLine("<A>dd a Card");
-            Console.WriteLine("<R>emove a Card");
             Console.WriteLine("<D>one -> Quit this program");
             
         }

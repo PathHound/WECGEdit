@@ -1,0 +1,120 @@
+Name,Type,Cost,Power,Hit Points,Card Text,Tribe,Set
+Gerald Burrom,Unit,5,5,10,[Invoke] Red Soul: Lvl 2 Play 1 Burrom tribe card from your hand with a cost equal or less of this abilities level for free. If this unit would be sent from the field to the rift. Move all [Burrom] Tribe cards from your rift to your deck and shuffle your deck afterwards.,Burrom,Base
+Armored Hydra,Unit,3,1,6,[Act]When this unit takes damage - Spawn 1 Hydra Head [1/X) token. X is equal to the amount of damage inflicted on this unit. This unit can block multiple units.,Burrom,Base
+Blaze Beetles,Unit,2,1,3,[Invoke] Spawn 1 Blaze Beetle Token at [1/1): deal 1 damage to this unit.,Burrom,Base
+Mountain Hounds,Unit,2,2,3,[Invoke] Ready this unit ~ On your [War phase] - this unit can attack up to 3 times. Navigate this unit twice after the war phase.,Burrom,Base
+Troll Chief,Unit,2,2,3,[Act] When this unit attacks - Inflict damage towards the target before resolving damage. This effect cannot be used when this unit blocks or becomes affected by a skill.,Burrom,Base
+Imp,Unit,2,1,5,[Invoke] You may pay for a Burrom skill card by permanently reducing this units stats.,Burrom,Base
+Drake,Unit,1,1,5,[Invoke] Ready this unit. Inflict 2 damage to this unit. Increase it's power by 2 until the end of turn.,Burrom,Base
+Red Sprite,Unit,0,1,1,[Act] This unit cannot attack players. When this unit would be sent to the rift from the field - Pick one of your units in play and either heal or increase it's attack by 1. If there are no unit's to target ~ target another unit in play and deal 1 damage.,Burrom,Base
+Sera - Rune Master,Unit,3,3,5,[Act]If a skill was activated this turn: this unit gains +2 Power until the end of the turn. If this unit attack's with an [Earth] Tribe unit - increase the power of an attacking [Earth] unit by 1.,Burrom,Base
+Dragon Knight,Unit,4,1,8,[Invoke] Navigate this unit [W]estbound. [Act] Each resolve that this unit navigates back - deal 2 damage to any unit in play.,Burrom,Base
+Sparth,Unit,4,4,7,[Invoke] Equip a relic that can be equipped from your hand to this unit for free or destroy a relic equipped to this unit. [Act] If any [Equip] relic would be sent from the field to the rift - target a unit on the field and deal 2 damage to it.,Burrom,Base
+Lizard Warrior,Unit,3,4,5,[Act] If this unit fights another unit with a relic equipped - destroy that unit.,Burrom,Base
+Flare,Skill,X,Null,Null,{0} - Deal 1 damage to 1 target unit. {1} - Deal 2 damage to 1 target unit. {2} - Deal 4 damage to 1 target unit. {3} - Deal 6 damage to 1 target unit. {4} - Deal 4 damage to 2 target units.,Burrom,Base
+Enrage,Skill,X,Null,Null,{0} - Increase 1 target units power by 1. {1} - Increase 1 target units power by 2. {2} - Increase 1 target units power by 3. {3} - Increase 1 target units power by 4. {4} - Increase 1 target units power by 5. {5} - Increase all of your units power by 3.,Burrom,Base
+Ruin,Skill,X,Null,Null,{1} - Target 1 Relic and send it to the rift. {4} - Target a Unit and send it to the rift. {8} - Your opponent places all of their cards in their hand into their stockpile and moves all of their units to the rift.,Burrom,Base
+Taunt,Skill,X,Null,Null,{1} Pick one of your units and another unit on the field. Both of those units battle each other. {3} Pick any 2 units to battle each other.,Burrom,Base
+Fire Sling,Skill,X,Null,Null,{1} Deal 1 damage to 2 Units. {3} Deal 2 damage to 3 Units. {5} Deal 4 damage to all Units.,Burrom,Base
+Dormant Volcano,Skill,2,Null,Null,[Chant: Unit Summoned] Inflict 2 damage to the summoned unit. The unit is [Burned].,Burrom,Base
+Pyre,Skill,2,Null,Null,Heal a unit by 2 or Inflict [Burned] to a unit on the field.,Burrom,Base
+Spell Battery,Relic,5,Null,Null,[Act] Whenever you play a skill - put a charge counter on this card. [Invoke] Spend 4 charge counters: inflict [Burned] to target player. If target player is already burning - inflict 2 damage to him/her instead.,Burrom, Base
+Das Frog,Unit,4,4,10,[Invoke] Blue Soul: Lvl 3 Play 1 Gelofon tribe card from your hand with a cost equal or less of this abilities level for free or search your deck for 1 Gelofon Tribe card - show it to your opponent and add it to your hand. Shuffle your deck afterwards if you choose to search it.,Gelofon,Base
+Frog Man,Unit,3,2,4,[Act] This unit is unaffected by card effects. [Resonate] The cost of a Skill played using this Unit as a Resonator is reduced by 1 to a minimium of 1.,Gelofon,Base
+Blast Fish,Unit,3,2,5,[Act][Brutal Tactic] If this unit is destroyed by battle - inflict [Burned] to the unit that destroyed it.,Gelofon,Base
+Guin,Unit,2,1,3,[Resonate] Add 1 life to a unit summoned this turn. [Act] If this unit would be targetted by an attack - you may navigate this unit to change that unit's target.,Gelofon,Base
+Oun - Guardian Crab,Unit,2,1,4,[Act][Life Weave] If this unit is sent to the rift from the field - add it to your stockpile instead.,Gelofon,Base
+King Crab,Unit,2,3,3,[Act] When this unit attacks: pick another unit and navigate it. You must resolve this effect before your opponent decides to block.,Gelofon,Base
+Battle Crab,Unit,2,2,4,[Act] If this unit is blocked: add 1 power to this unit until the end of the turn.,Gelofon,Base
+Blue Sprite,Unit,0,1,1,[Act] This unit cannot attack players. When this unit would be sent to the rift from the field - add it to your stockpile faceup instead. When used as a resource for a Gelofon card - add (+2) Life to that unit.,Gelofon,Base
+Vanta Reef,Unit,4,3,7,[Invoke] Search your deck for 'Gelofon' Skill card - show it to your opponent and add it to your hand. Shuffle your deck afterwards. [Act] If this unit is navigated: it cannot be targetted by skill effects.,Gelofon,Base
+Kuvo,Unit,2,2,5,[Act] This this unit is blocked - navigate the blocking unit again at the end of the war phase.,Gelofon,Base
+Tonas,Unit,3,3,6,[Act] If this unit inflicts damage to a player through a direct attack; Draw a card. If this unit is destroyed during the warphase - your opponent draws a card.,Gelofon,Base
+Giant Star Fish,Unit,1,2,3,[Act] If a 'Gelofon' tribe skill is played - navigate this unit and heal another in play by 1. This effect cannot be used if this unit is [W]estbound. You cannot heal this unit.,Gelofon,Base
+Deep focus,Skill,1,Null,Null,[Limit:2] Draw 4 cards.,Gelofon,Base
+Dream Wall,Skill,1,Null,Null,[Shift] Target a skill - negate it's effects and destroy it. This card cannot target chants.,Gelofon,Base
+Gate Crack,Skill,2,Null,Null,[Chant: Unit Summon] If a unit would be summoned - return it and the top card of it's owner's rift to the deck. The affected player shuffles their deck afterwards.,Gelofon,Base
+Steam Clone,Skill,2,Null,Null,[Chant: Unit Summon] Spawn a token with the exact same life and power of the summoned unit. The token receives [Burned].,Gelofon,Base
+Tidal Wave,Skill,1,Null,Null,[Chant: Unit Attack] Reduce the attack of all Units with a cost of {2} or less to 0 until the end of the war phase.,Gelofon,Base
+Gel Skin,Skill,1,Null,Null,[Chant: Skill Cast] Target a unit. That unit becomes immune to card effects until the end of the turn.,Gelofon,Base
+Gel Shield,Skill,2,Null,Null,[Chant: Skill Cast] Target a skill. Negate it's effects and add it to your stockpile face up.,Gelofon,Base
+Gush,Skill,2,Null,Null,[Chant: Unit Block] Target a blocking unit; that unit is no longer blocking.,Gelofon,Base
+Mirage Lake,Relic,8,Null,Null,Once per turn when one of your opponent's Units Attack or Block - Spawn a token with the following effects. (Mirage [0/X)) X is equal to an attacking unit's Life. This Unit cannot Attack.,Gelofon,Base
+Boost Troop,Unit,2,1,3,[Invoke] Select another unit in play - That unit can attack twice until the end of the turn.,Earth,Base
+Minotaur,Unit,2,5,2,[Act] When attacking if blocked and the blocking unit's attack is lower - discard it to the rift after combat.,Earth,Base
+Gate Guardian,Unit,1,1,3,[Act] When this unit is Blocking: Increase it's life by 1. If the attacking unit is 4 or higher - reduce the damage dealt to this unit by 1.,Earth,Base
+Medic,Unit,1,1,2,[Act] After each Draw phase during your turn - Select one of your own Earth units. Heal that unit by 1. Healing does not increase the life of that unit.,Earth,Base
+War Gear,Unit,1,2,2,[Act] When this unit is used in a fusion - add an additional [+1](+3) to that fusion.,Earth,Base
+Spark Carrier,Unit,1,X,X,[Fusion] 2x Earth Units - This unit may inherit 2 abilities from it's materials. When this unit recieves damage ~ spawn 1 Battle Bot Token [2/1).,Earth,Base
+Kiva the  Traveler,Unit,3,X,X,[Life Weave][Fusion] 3x Earth Units This unit may inherit 3 abilities from it's materials. When this unit attacks - you may pick another unit and split the damage between the two targets. You can only pick up to one other target. This unit cannot be blocked.,Earth,Base
+Juno of Earth,Unit,5,4,10,"[Invoke] Purple Soul: Lvl 3 - Play 1 Earth tribe card from your hand with a cost equal or less of this abilities level for free. Exhaust this unit afterwards.[Act] This unit cannot be affected by Skills or card effects. This unit cannot equip Relic cards.",Earth,Base
+Jivet,Unit,2,1,3,[Act][Life Weave] If this unit is used as apart of a fusion: search your deck for a skill or relic card and show it to your opponent.  Add it to your hand and then shuffle your deck afterwards.,Earth,Base
+Purple Sprite,Unit,0,1,1,[Act] This unit cannot attack. When this unit would be sent to the rift from the field: add it to your stockpile faceup instead. When used as a resource for an Earth tribe card - reshuffle this card back into your deck. This unit cannot be treated as a resonator.,Earth,Base
+Robathos War Machine,Unit,0,X,X,[Fusion] 2x Earth Units - This unit may inherit 2 abilities from it's materials.,Earth,Base
+Gargoyle,Unit,1,2,3,[Act] If this unit is navigated: it cannot be targetted by card effects.,Earth,Base
+Shield Bearer,Unit,3,2,6,[Invoke] Ready this unit. This unit gains 5+ Life until the start of your next turn. If this unit blocks a unit with [Brutal Tactic] - the attacking unit is silenced until the end of the warphase. This effect can only be used once per turn.,Earth,Base
+Shade - The Nomad,Unit,4,3,7,[Invoke] Search your deck for a Relic - show it to your opponent and add it to your hand. Shuffle your deck afterwards [Act]If this unit attack's with a [Burrom] tribe unit - pick another attacking [Burrom] unit that unit gains [Brutal Tactic.],Earth,Base
+Earthquake,Skill,2,Null,Null,[Chant: Unit Attacking] Deal 1 damage to all attacking units.,Earth,Base
+Earth Bind,Skill,1,Null,Null,[Chant: Unit Attacking] Target a unit - That unit can no longer fight until then end of the turn. If the target unit's cost is 2 or more: Inflict 2 damage to it.,Earth,Base
+Earthly Silence,Skill,4,Null,Null,[Chant: Card Effect Activates] All abilities: [Act] - [Invoke] and Skills cannot be used until the end of the turn.,Earth,Base
+Radio Support,Skill,1,Null,Null,Search your deck for 1 [Fusion] unit and show it to your opponent. Add it to your hand and shuffle your deck afterward.,Earth,Base
+Sound Barrier,Skill,2,Null,Null,[Chant: Unit Attacking] Choose one attacking unit - reduce it's attack power by 2 until the end of the turn.,Earth,Base
+Supply Drop,Skill,1,Null,Null,Take the top 2 cards from your rift and place them facedown into your stockpile. You can use 1 supply drop per turn.,Earth,Base
+Event Horizon,Skill,4,Null,Null,Choose: []Discard the top 3 cards of any deck. []Destroy a Resonator.,Earth,Base
+Theft,Skill,3,Null,Null, Choose:[] Take up to 2 resources from your opponents stockpile and add them to yours. [] Take 1 Resonator from your opponent: add it to your Resonator Zone. You may change the tribe of that resonator and equip this skill to that resonator.,Earth,Base
+Flying Factory Fortress,Relic,6,Null,Null,Once per turn - Choose: [] Navigate one of your [Fusion] units in play or [] Pay {2}: Spawn a token with the following effects. {Combat Drone} [1/3) [Act] This unit cannot be blocked.,Earth,Base
+Queen Ariani,Unit,6,5,10,[Invoke] Yellow Soul: Lvl 4 Play 1 Ariani tribe card from your hand with a cost equal or less of this abilities level for free or inflict 2 damage to all unit's on the field [N]orthbound.,Ariani,Base
+Winged Warrior,Unit,4,4,5,[Act] This unit can conduct battle with 2 units during it's war phase. This ability cannot be used to target a player and a unit or attack a player twice. This effect does not carry if this unit dies as a result of battle from it's first target.,Ariani,Base
+Templar Hounds,Unit,4,3,7,[Shift][Act] You may pay {1} resource to summon this unit in order to block an attack. This unit is then sent to your stock pile at start of your next turn this effect was used.,Ariani,Base
+Zealot,Unit,4,4,4,[♫ Resonate] Reduce the cost of the next Ariani card by 1.[Act]If this unit would be sent to the rift - add it to the stockpile instead.,Ariani,Base
+Oracle,Unit,3,4,2,[Invoke] Pick a deck aand look at the top 3 cards. Put them back in any order would want.,Ariani,Base
+Refract,Unit,2,1,3,[ Resonate] When you summon a unit using this unit as a resonator: you may instead send that unit to the rift and add both it's attack and life to another unit on the field until the end of the next warphase.,Ariani,Base
+Blaze Bird,Unit,1,2,2,[Oath] When this unit comes into play: deal 1 damage to a unit of your choice.,Ariani,Base
+Sun Slinger,Unit,1,1,3,[Act] When your opponent plays a skill or relic or a unit: you may deal 1 damage to a unit on the field and navigate this unit.,Ariani,Base
+Guardian,Unit,1,2,4,[Act] If an [Ariani] skill card is played: navigate this unit [N]orthbound. This effect cannot be used if this unit is treated as a [Resonator].,Ariani,Base
+Yellow Sprite,Unit,0,0,1,[Act] This unit cannot attack. When this unit would be destroyed - add it to your stockpile faceup instead. When used as a resource for an Ariani tribe card: summon this unit to the field and add 1 Power to it. This ability does not stack power. This effect cannot be used with Ariani Skill [Chant] cards.,Ariani,Base
+Chorus of Light,Unit,3,2,4,[Resonate] Target a unit in play. Reduce that unit's power by [1] until the end of the next warphase.,Ariani,Base
+Uneasy Alliance,Skill,3,Null,Null,Target a unit on the field. Until the start of your next turn - treat that unit as your own. If this skill was sent to the rift by the result of a card effect: summon a unit from the rift without paying it's cost.,Ariani,Base
+Light Arrow,Skill,X,Null,Null,{0} Navigate 1 Unit of the field. {1} Target 1 player: discard 1 card from their hand at random. {4} Target 1 player: that player must discard their hand.,Ariani,Base
+Eclipse,Skill,1,Null,Null,[Chant: Unit Attack] Target 1 attacking unit. That unit cannot be blocked.,Ariani,Base
+Solar Ray,Skill,X,Null,Null,{0} Heal a unit in play by 1. {3} Heal a unit in play by 2 - damage a unit by 1. {5} Heal a unit in play by 4 - damage a unit by 4. {7} Heal all of your units by 5 and damage a unit by 5.,Ariani,Base
+Dying Reversal,Skill,4,Null,Null,[Chant: Unit Attack] Swap the attack power of an attacking unit with one of your units.,Ariani,Base
+Deadly Decree,Skill,6,Null,Null,All of your unit's in play gain [Brutal Tactic] until the end of the turn. Units destroyed while under this effect are sent to your stockpile face up.,Ariani,Base
+Judgement Castle,Relic,6,Null,Null,Place [3] Heretic tokens on this relic. Once per turn: you may move [1] Heretic token to a unit in play. The owner of the unit must pay resources or resonate resonators equal to the amount of tokens if they wish to invoke or use that unit to Attack or Block. Once per turn - you may sacrifice one of your unit's or inflict one damage to your total life to add [2] heretic tokens to this relic.,Ariani,Base
+Vash of Mooran,Unit,4,4,10,[Invoke] Green Soul: Lvl 3 Play 1 Morran tribe card from your hand with a cost equal or less of this abilities level for free. [Act] If you take any direct damage: inflict or heal 3 point's of damage to any unit in play for each point of life lost.,Mooran,Base
+King Slime,Unit,5,3,9,[Act] When this unit is summoned: Search your rift for cards with the word Slime in their name and summon them to the field without paying their costs. Unit's summoned this way cannot attack.,Mooran,Base
+Vencui - Treant Guardian,Unit,3,1,7,[Act] When this unit receives damage: heal one of your units in play equal to the damage this unit received. You cannot select a unit with 'Treant' in its name.,Mooran,Base
+Ventias of the Jungle,Unit,3,3,9,[Act] When this unit is attacked or blocked: pick another unit and navigate it. If this unit is destroyed as a result of battle: deal 1 damage to another unit in play. If this unit is sent from the field to the rift: add it to your stockpile faceup instead.,Mooran,Base
+Thorn Vine,Unit,2,2,5,[Act] When this unit takes damage; pick another unit on the field and inflict 2 damage to it. If this unit is sent from the field to the rift: add it to your stockpile facedown instead.,Mooran,Base
+River Venus,Unit,2,1,3,[Act][Life Weave] If this unit is sent to the rift: Heal another unit by 3. If this unit is destroyed by a result of battle: inflict 2 damage to another unit. If this unit is sent from the field to the rift: add it to your stockpile facedown instead.,Mooran,Base
+Mind Snare,Unit,1,1,3,[Act] If a Mooran unit is targetted by a skill - navigate this unit and change the target to another unit in play. If this unit is sent from the field to the rift: add it to your stockpile facedown instead.,Mooran,Base
+Slime Knight,Unit,1,2,3,[Act][Life Weave] When this unit is blocked: add 1 life to this unit. If this unit is sent from the field to the rift: add it to your stockpile facedown instead,Mooran,Base
+Mist Assassin,Unit,3,1,7,[Invoke] Navigate this unit twice.[Act] This unit cannot be targetted for an attack while navigated. During each resolve if this unit is navigated: deal damage to another unit in play equal to this units power.,Mooran,Base
+Carvenas - The Giant Plant,Unit,0,X,X,[Fusion] 2 x Mooran This unit may inherit 2 abilities from it's materials.,Mooran,Base
+Green Sprite,Unit,0,1,2,[Act] This unit cannot attack. When this unit would be destroyed - add it to your stockpile faceup instead. When used as a resource for a Mooran card: select a Mooran tribe card from the rift and add it to your hand. This unit cannot be treated as a resonator.,Mooran,Base
+Green Slime,Unit,0,1,1,[Act] When this unit would be destroyed - add it to your stockpile faceup instead. When used as a resource: this card acts as 2 resources towards any card tribe cards.,Mooran,Base
+Briar Trap,Skill,1,Null,Null,[Chant: Unit Attack] The unit attacking receives 2 damage. If the unit was destroyed: add that unit to your stockpile.,Mooran,Base
+Leech Trap,Skill,2,Null,Null,[Chant: Unit Attack] The unit attacking receives 3 damage. Pick another unit: that unit heals for 3.,Mooran,Base
+Full Moon,Skill,3,Null,Null,Target one of your unit's. That unit receives [+3] Power and [Life Weave] until the start of your next resolve.,Mooran,Base
+Eyes in the Forest,Skill,2,Null,Null,Look at the top 4 cards in either your deck or your opponent's. Re-arrange them in any order you like and place them back on top of their respective deck.,Mooran,Base
+Forest Water,Skill,X,Null,Null,{0} Heal 1 Unit by 2. {1} Heal 1 Unit by 3. {2} Heal 2 Units by 2. {3} Heal 3 Units by 2. {4} Heal All of your Units by 4.,Mooran,Base
+Gust,Skill,X,Null,Null,{0} Deal 1 damage to a unit. {3} Deal 2 damage to all of your opponent's units. {6} Deal 4 damage to all of your opponent's units. If any unit's we're destroyed as a result of this skill: add the destroyed units to your stockpile.,Mooran,Base
+Forest Horn,Skill,4,Null,Null,Search your deck for a Mooran unit and summon it: ignoring cost's. Suffle your deck afterwards. That unit is [Silenced] until the start of your next turn.,Mooran,Base
+Mist Blade,Relic,6,Null,Null,{3}[Equip] The equipped gains [+4] Power. If the equipped unit destroy's another unit in play: add that unit to your stockpile. [Act] If the equipped unit is destroyed: this relic is not destroyed and treated as a tool until the owner equips it to a unit.,Mooran,Base
+Defense Rune,Relic,2,Null,Null,[Shift] When any unit or yourself are targetted to take damage by 1 or more sources: Drop all incoming damage to 0. If this Relic was used during the Warphase - the war phase ends immediately. This relic cannot be affected by card effects.,Grey Relic,Base
+Protect Shell,Relic,0,Null,Null,[Shift] When any unit or yourself are targetted to take damage - reduce that damage by 1.,Grey Relic,Base
+Life Rune,Relic,3,Null,Null,Heal your life by 1.,Grey Relic,Base
+Rush Gate,Relic,3,Null,Null,[Resonate] Unit's can be summoned as if they have [Shift] when this gate is used to summon a unit. The abilities of that unit are 'Silenced' until the end of your next turn. This cannot be used as a resource.,Grey Relic,Base
+Dream Rune,Relic,3,Null,Null,Search your deck for 1 unit and show it to your opponent and add it to your hand. Shuffle your deck afterwards. You cannot summon any units this turn if you use this relic. This relic cannot be used if you summoned a unit.,Grey Relic,Base
+Gatekeepers Cloak,Relic,2,+0,+3,[Equip] When the equipped recieves damage from battle: Reduce incoming damage to 1. This relic cannot be equipped with other Relic's. If equipped to a unit with other relics: destroy the other equipped relics,Grey Relic,Base
+Adapting Armor,Relic,2,+0,+1,[Equip] If the unit equipped unit recieves damage: heal the unit by 1.,Grey Relic,Base
+Critical Lens,Relic,1,+1,+0,[Equip] When the equipped unit blocks or is being blocked ignore any [Act] abilities and stat buffs provided. If the unit deals damage to a unit with extra life provided by a relic remove that extra life.,Grey Relic,Base
+Heavy Blade,Relic,1,+4,+0,[Equip] The equipped unit cannot equip any other relics while equipped with Heavy Blade.,Grey Relic,Base
+Poison Blade,Relic,1,+1,+0,[Equip] If the equipped unit is sent to the rift as a result of battle: destroy the unit it conducted battle with.,Grey Relic,Base
+Fury Stim,Relic,1,+0,-2,[Equip] This unit can attack twice.,Grey Relic,Base
+Creature Egg,Relic Unit,0,0,3,[Invoke] Choose:[] Place a 'Hatch' token on this unit. [] Summon a unit with a cost equal too or less than the amount of hatch tokens on this unit. Discard this unit to the rift. If this unit was used to block: discard it.,Grey Relic,Base
+Rune Shield,Relic,3,+0,+3,[Equip] The equipped unit cannot be targetted by [Act] card effects.,Grey Relic,Base
+Bolt Blaster,Relic,1,+2,+0,[Equip] If the equipped is sent to the rift: you may navigate 1 Resonator to equip this to another unit you own in play. If there are no unit's in play: place this relic into your stockpile facedown.,Grey Relic,Base
+Ressonance Rune,Relic,1,Null,Null,Pick:[] Select one of your unit's in play; remove all damage and place it in your [Resonators] zone (Or) [] Select one of your resonators and place it on the field.,Grey Relic,Base
+Hidden Leyline,Relic,3,Null,Null,[Act] Each time you spend a resource: add a {Resonate} counter to this gate.[ Resonate] You may reduce the cost of your next card by the amount of {Resonate} counters on this gate to a minimum of {1}. If you do - remove all {Resonate} counters.,Grey Relic,Base
+Imperfect Duplicate,Relic Unit,1,X,X,Target a unit on the field. X is equal to the life and power of the targeted unit. This unit gains the tribe affinity of the targeted unit. This unit gains the same number of counters and status ailment of the targetted unit.,Grey Relic,Base
