@@ -35,8 +35,6 @@ namespace WCGApp
                 Console.Clear();
 
                 //=>PROCURES the entire list, removing the card text for a 'quick' list
-                // Note: Attempted to convert the input to a single 'Char' and attempted to convert it to string
-                // Attmpted to Uppercase it as well, C# isn't interpreting, ignoring it: I'll need to seek help how to pursue this.
                 if (input.Key == ConsoleKey.A)
                 {
                     Console.WriteLine("<<<==========================================================>>>");
