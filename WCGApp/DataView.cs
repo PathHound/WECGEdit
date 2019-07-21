@@ -135,11 +135,28 @@ namespace WCGApp
                 Console.WriteLine("<<<=============================================================================================================>>>\n");
 
                 //Complex Menu Selection - Changes based on how the view works
-                Console.WriteLine("Previous - Press[<-] || <A>dd a card || <R>emove Card Displayed || <E>dit || Advance - Press [->] || <B>ack");
+                Console.WriteLine("\tPrevious - Press[<-] || <A>dd a card || <R>emove Card Displayed || <E>dit || Advance - Press [->] || <B>ack");
+                Console.WriteLine("\tPrevious x 10 - Press[\\/] || Advance x 10 - Press [/\\]");
                 var usrInput = Console.ReadKey();
                 Console.Clear();
                 switch (usrInput.Key)
                 {
+                    // Set's up the [↑] Arrow Key to go through the data
+                    case ConsoleKey.UpArrow:
+                        temp += 10;
+                        if (temp >= cardList.Count)
+                        {
+                            temp = cardList.Count - 1;
+                        }
+                        break;
+                    // Set's up the [↓] Arrow Key to go through the data
+                    case ConsoleKey.DownArrow:
+                        temp -= 10;
+                        if (temp < 0)
+                        {
+                            temp = 0;
+                        }
+                        break;
                     // Set's up the [→] Arrow Key to go through the data
                     case ConsoleKey.RightArrow:
                         temp += 1;
