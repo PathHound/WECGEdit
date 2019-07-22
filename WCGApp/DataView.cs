@@ -11,7 +11,6 @@ namespace WCGApp
     /// </summary>
     class DataView
     {
-
         public static void ViewEditFile()
         {
             //Setting up the Variables, priming.
