@@ -8,7 +8,7 @@
 
 This editor takes uses single key stroke's in order to perform actions.
 The key's to these actions are outlined with '<->'
-Example: If you want to <E>dit a card, you need to press 'E' via Keyboard.
+Example: If you want to Edit a card, you need to press 'E' via Keyboard.
 Key Prompts are not used when manipulating the data.
   
 ▼▲▼▲ Main Menu
