@@ -1,27 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.IO;
-using System.Collections;
 
 namespace WCGApp
 {
     class CarDataService
     {
+        /// <summary>
+        /// Card Data Service
+        /// ======================================
+        /// This class handles the File IO operations.
+        /// </summary>
         public CarDataService()
         {
 
         }
 
-        // Card Data Service
         // ====================================================================
-        // File•Read:
-        // The method below pulls the CSV file, reads it and will return a list
-        // of all the content's in the file.
-        // ====================================================================
-        // File•Write:
-        // This Method writes back out to the file any data changes.
-        // Everything from minor changes to new cards.
+        // File Read(): The method below pulls the CSV file, reads it and will return a list
+        //              of all the content's in the file.
         // ====================================================================
 
         public List<CarData> FileRead()
@@ -48,7 +45,6 @@ namespace WCGApp
                     listItem.cardSet = Line[7];
 
                     cardData.Add(listItem); //Item in the current line gets stored.
-
                 }
 
             }
@@ -56,7 +52,10 @@ namespace WCGApp
             return cardData; //Returns EVERYTHING IN THE FILE!!!
         }
 
-        // Writes new stuff back to the file.
+        // ====================================================================
+        // File Write():    This method writes back out to the file.
+        //                  Any new changes are overwritten.
+        // ====================================================================
         public static void FileWrite(List<CarData>cardList){
 
             string DataDirectory = AppDomain.CurrentDomain.BaseDirectory;

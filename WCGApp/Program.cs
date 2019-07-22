@@ -9,7 +9,8 @@ namespace WCGApp
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.Clear();
-            
+            bool done = true;
+
             // Header - Introducing the User to the program.
             for (int i = 0; i <= 30; i++)
             {
@@ -20,8 +21,7 @@ namespace WCGApp
                 }
             }
             
-            //Main Loop - Waits for exit statement.
-            bool done = true;
+            // Main Loop - Waits for exit statement.
             while (done)
             {
                 pUsrOptions();
@@ -41,16 +41,18 @@ namespace WCGApp
                 }
                 Console.Clear();
             }
-
         }
 
+        /// <summary>
+        /// Personal User Options
+        /// ===========================================
+        /// Just here to serve a simple function = Copy and paste the menu whenever and wherever I need it.
+        /// </summary>
         public static void pUsrOptions()
         {
-            // Just here to serve a simple function = Copy and paste the menu whenever and wherever I need it.
             Console.WriteLine("===>> Select an Option");
             Console.WriteLine("<C>heck the cards on file");
-            Console.WriteLine("<D>one -> Quit this program");
-            
+            Console.WriteLine("<D>one -> Quit this program");   
         }
     }
 }

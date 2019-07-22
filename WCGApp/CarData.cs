@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace WCGApp
+﻿namespace WCGApp
 {
+    /// <summary>
+    /// 
+    /// This class represents the data being modeled for this program.
+    /// </summary>
     class CarData
     {
         public string cardName { get; set; }
