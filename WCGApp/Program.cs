@@ -11,17 +11,21 @@ namespace WCGApp
             Console.Clear();
             bool done = true;
 
-            // Header - Introducing the User to the program.
-            for (int i = 0; i <= 30; i++)
+            // Header() - Introducing the User to the program.
+            for (int i = 0; i <= 40; i++)
             {
                 Console.Write("=");
-                if (i == 15)
+                if (i == 20)
                 {
-                    Console.Write(">> Welcome to the 'Worlds LCG' Database << \n");
+                    Console.Write(">> Welcome to the 'Worlds LCG' Database <<");
+                }
+                if (i == 40)
+                {
+                    Console.WriteLine("");
                 }
             }
             
-            // Main Loop - Waits for exit statement.
+            // Main Loop() - Waits for exit statement.
             while (done)
             {
                 pUsrOptions();
@@ -44,9 +48,9 @@ namespace WCGApp
         }
 
         /// <summary>
-        /// Personal User Options
+        /// Personal User Options()
         /// ===========================================
-        /// Just here to serve a simple function = Copy and paste the menu whenever and wherever I need it.
+        /// Just here to serve a simple function: Copy and paste the menu whenever and wherever I need it.
         /// </summary>
         public static void pUsrOptions()
         {

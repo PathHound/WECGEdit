@@ -1,0 +1,58 @@
+[33mcommit 766e320fa1b58999130e0d19d308c3b5ca0000af[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Mon Jul 22 17:53:26 2019 -0400
+
+    • Spacing Issue, Cleaned up.
+
+[33mcommit 1fa71e9901029d6d85255943212c957a953dc495[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Mon Jul 22 17:50:15 2019 -0400
+
+    ▲▼▲▼
+    Refactored the user inputs to reduce file reading errors to CarDataServices.
+    ▲▼▲▼
+    Updated Comments to better suit the code.
+    ▲▼▲▼
+    Added functitonality to the Up and Down Arrow keys for the card list.
+
+[33mcommit fc31d3cd30af13132b11bb0661fd88072471c80f[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Sun Jul 21 18:35:16 2019 -0400
+
+    • Small Optimization.
+
+[33mcommit e1dc954a55895577de2aa545918d8c517362afec[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Fri Jul 19 20:30:09 2019 -0400
+
+    • Comment Note Editing
+
+[33mcommit 0eef87c6a4f4d9485b664d90474572a07f1c0c1a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Fri Jul 19 19:27:07 2019 -0400
+
+    • File Refactored.
+
+[33mcommit 3546300aa808beb73ea6ee19b06697a6282edacc[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Fri Jul 19 19:19:59 2019 -0400
+
+    •  Refactored Code; Added a few other commets.
+
+[33mcommit 79743df8410636f6e1e9188cf6297d428b20d363[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Fri Jul 19 19:07:17 2019 -0400
+
+    • Program Revision; includes basic editing, viewing and will compensate for edits made back to the CSV File.
+
+[33mcommit 2744298cf0c26ede26777d3f7f54f8b5ff69b2a7[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Wed Jul 17 18:46:30 2019 -0400
+
+    • Initial Commit; Include Single Card View, Mass List View.
+
+[33mcommit 646d583057cfb96ed2725504e6e0647bf1d86097[m
+Author: Patrick England <zyguy732@gmail.com>
+Date:   Wed Jul 17 18:38:56 2019 -0400
+
+    Initial commit
