@@ -1,7 +1,8 @@
 ﻿namespace WCGApp
 {
     /// <summary>
-    /// 
+    /// CarData() Object
+    /// ==============================================================
     /// This class represents the data being modeled for this program.
     /// </summary>
     class CarData
